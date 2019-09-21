@@ -25,7 +25,6 @@ jobs:
         npm test
       env:
         CI: true
-
       - name: Firebase deployment
         if: github.ref == 'refs/heads/release'
         run: |
