@@ -8,7 +8,7 @@ const AboutPage: React.FC = () => {
       <p>
         <Link to="/">Home</Link>
       </p>
-      <h1>About</h1>
+      <h1>About test change</h1>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam ullam, placeat similique accusamus aliquid, quidem dolor iusto ut eum exercitationem beatae omnis libero? Saepe molestias obcaecati ratione, quam nemo quas.</p>
     </DefaultLayout>
   );
